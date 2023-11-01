@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "edu.sfsu.app_movie"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "edu.sfsu.app_movie"
